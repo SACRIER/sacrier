@@ -6,10 +6,17 @@ Faço estágio na prefeitura de Queluz, lá eu realizo tarefas gerais que vão d
 
 Projetos:
 ETEC – TCC – Merc.On: plataforma web para sistematização de panfleto de supermercados;
+
 FATEC – Projeto Interdisciplinar – SEBO Online – e-commerce para venda de livros;
-FATEC – EIC – Plataforma web para visualização de dados do banco de dados;
+
+FATEC – Acelera – Plataforma web para visualização de dados do banco de dados;
+
 FATEC – Projeto Programação Linear – Ajuda Humanitária: solução em python para otimização de percursos para ajuda humanitária;
+
 FATEC – Projeto WEB: e-commerce para vendas de jogos;
+
 FATEC – TG – Solução IoT para monitoramento de temperatura, umidade e presença em data centers;
+
 ESTÁGIO – SGE: plataforma ERP web para estagiários;
+
 ESTÁGIO – Plataforma web para ouvidoria.
