@@ -1,3 +1,4 @@
+<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
 <h1>Hello World 😄 👋</h1>
 
 Meu nome é <strong>Luiz Fernando da Costa Rodrigues</strong>, moro em Queluz – São Paulo e tenho 21 anos.
