@@ -4,7 +4,7 @@ Meu nome é Luiz Fernando da Costa Rodrigues, moro em Queluz – São Paulo. Atu
 Amo escrever e sou apaixonado por literatura, adoro animes e jogos RPG’s no geral. No ambiente de tecnologia gosto muito de trabalhar em plataformas web, PHP, HTML, CSS, JAVASCRIPT e PYTHON são ferramentas que me acompanham desde que eu comecei no mundo da tecnologia e são hoje minhas paixões.
 Faço estágio na prefeitura de Queluz, lá eu realizo tarefas gerais que vão desde troca de peças à desenvolvimento (WEB). Essa vem sendo uma experiência incrível para mim e a qual estou aprendendo muito sobre o mercado em geral. 
 
-Projetos:
+<h1>Projetos:</h1>
 ETEC – TCC – Merc.On: plataforma web para sistematização de panfleto de supermercados;
 
 FATEC – Projeto Interdisciplinar – SEBO Online – e-commerce para venda de livros;
