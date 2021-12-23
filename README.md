@@ -4,7 +4,7 @@ Meu nome é <strong>Luiz Fernando da Costa Rodrigues</strong>, moro em Queluz �
 <h1>Formação Acadêmica 🏫</h1>
 Conclui o curso <strong>Técnico em Informática pela ETEC Cruzeiro e sou formado curso de Análise e Desenvolvimento de Sistemas pela FATEC de Cruzeiro.</strong>
 <h1>Hobbies 🏃 📖</h1>
-Amo escrever e sou apaixonado por literatura, adoro animes e jogos RPG’s no geral.
+Amo escrever e sou apaixonado por literatura, filosofia e aprender algo novo sempre, adoro animes e jogos RPG’s no geral.
 <h1>Tecnologias 💻</h1>
 No ambiente de tecnologia gosto muito de trabalhar em plataformas web, PHP, HTML, CSS, JAVASCRIPT e PYTHON são ferramentas que me acompanham desde que eu comecei no mundo da tecnologia e são hoje minhas paixões.
 <h1>Experiência profissional 👨‍💼</h1>
