@@ -1,4 +1,4 @@
-<h1>Olá :D</h1>
+<h1>Hello World :D</h1>
 
 Meu nome é <strong>Luiz Fernando da Costa Rodrigues</strong>, moro em Queluz – São Paulo. Atualmente tenho 21 anos, conclui o curso Técnico em Informática pela ETEC Cruzeiro e estou no último semestre do curso de Análise e Desenvolvimento de Sistemas pela FATEC de Cruzeiro. 
 Amo escrever e sou apaixonado por literatura, adoro animes e jogos RPG’s no geral. No ambiente de tecnologia gosto muito de trabalhar em plataformas web, PHP, HTML, CSS, JAVASCRIPT e PYTHON são ferramentas que me acompanham desde que eu comecei no mundo da tecnologia e são hoje minhas paixões.
