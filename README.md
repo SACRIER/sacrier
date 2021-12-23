@@ -6,7 +6,7 @@ Conclui o curso <strong>Técnico em Informática pela ETEC Cruzeiro e estou no �
 <h1>Hobbies 🏃 📖</h1>
 Amo escrever e sou apaixonado por literatura, adoro animes e jogos RPG’s no geral.
 <h1>Tecnologias 💻</h1>
-No ambiente de tecnologia gosto muito de trabalhar em plataformas web, PHP, HTML, CSS, JAVASCRIPT e PYTHON são ferramentas que me acompanham desde que eu comecei no mundo da tecnologia e são hoje minhas paixões.
+No ambiente de tecnologia gosto muito de trabalhar em plataformas web, PHP <i class="fab fa-php"></i> , HTML, CSS, JAVASCRIPT e PYTHON são ferramentas que me acompanham desde que eu comecei no mundo da tecnologia e são hoje minhas paixões.
 <h1>Experiência profissional 👨‍💼</h1>
 Faço estágio na prefeitura de Queluz, lá eu realizo tarefas gerais que vão desde troca de peças à desenvolvimento (WEB). Essa vem sendo uma experiência incrível para mim e a qual estou aprendendo muito sobre o mercado em geral. 
 
